@@ -1,0 +1,66 @@
+
+
+body{
+    background-image: url(background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{ 
+    font-family: 'Poppins', sans-serif;
+  color: white;
+    font-size: 400%;
+}
+
+h2{
+    font-style: italic;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 150%;
+}
+
+.foto{
+    border-radius: 50%;
+    margin-top: 100px; 
+    margin-left: 20px;margin-bottom: 0;
+    border: 3px solid white;
+}
+.perfil{
+    display: flex; 
+    align-items: center;
+}
+.divis{
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.divis h2{
+    margin-top: -15px;
+}
+
+.hud{ 
+    font-family: 'Poppins', sans-serif;
+    margin-left: 800px;
+    color: rgb(255, 255, 255);
+    font-size: large;
+}
+
+.sobre{ 
+    font-family: 'Poppins', sans-serif;
+    margin-left: 50px;
+    color: rgb(255, 255, 255);
+    font-size: larger;
+}
+
+.portf{ margin-left: 50px;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: larger;
+}
+
+.contat{ margin-left: 50px;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: larger;
+}
